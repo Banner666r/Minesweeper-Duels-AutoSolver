@@ -1,8 +1,11 @@
-- v0.9.5 Pre‑Release
+- v1.0.0 release
+    Made by: @banner_666 on Discord
 
-
-Features:
-- Highlights safe tiles (green) and bombs (red)
-- Works on all arenas and both boards
-- Toggleable UI with rescan button
-- Clean and draggable interface
+    Features:
+    - Full-height slide-out sidebar UI
+    - Main: Helper toggle + Rescan
+    - Settings: Color mode, Outline mode, Theme, Auto-Rescan, Number Overlay
+    - Performance: Performance Mode (potato-friendly), radius-based coloring
+    - Developer Mode: debug overlay, tile info
+    - Auto-detect nearest board (Left/Right) per arena
+    - Works on all arenas and both boards
