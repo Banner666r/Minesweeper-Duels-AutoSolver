@@ -1,3 +1,11 @@
 If you want to modify or apply changes, feel free to do it. In case you need anything, Discord: banner_666
 
 I would be happy If you gave credits :D
+
+
+## Features
+- Highlights safe tiles (green) and bombs (red)
+- Works on all arenas and both boards
+- Toggleable UI with rescan button
+- Zero lag, zero remote calls, fully client-side
+- Clean and draggable interface
