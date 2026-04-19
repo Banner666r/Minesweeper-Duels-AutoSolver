@@ -1,11 +1,14 @@
-- v1.0.0 release
-    Made by: @banner_666 on Discord
+# v1.0.0-beta - Major Update
 
-    Features:
-    - Full-height slide-out sidebar UI
-    - Main: Helper toggle + Rescan
-    - Settings: Color mode, Outline mode, Theme, Auto-Rescan, Number Overlay
-    - Performance: Performance Mode (potato-friendly), radius-based coloring
-    - Developer Mode: debug overlay, tile info
-    - Auto-detect nearest board (Left/Right) per arena
-    - Works on all arenas and both boards
+## Beta release
+This version may contain bugs. 
+Please report issues on github.
+
+## New features:
+- Full sidebar UI with 5 tabs
+- Auto-detect nearest board (Left/Right)
+- Performance mode for potato PCs
+- Developer mode with debug overlay
+- Number overlay (BombCount)
+- Theme system (Dark/Light/Neon)
+- Auto-rescan option
